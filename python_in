@@ -1,0 +1,199 @@
+#1st question
+print("Hello World!")
+print("--------------------------------------------------")
+#2nd question
+print("Welcome to python")
+print("---------------------------------------------------")
+#3rd question
+name = "palguna"
+print(name)
+print("----------------------------------------------------")
+#4th question 
+print("I am learning python")
+print("----------------------------------------------------")
+#5th question 
+print("python programming")
+print("----------------------------------------------------")
+#6th question
+print("Good morning")
+print("----------------------------------------------------")
+#7th question
+print("Welcome students")
+print("----------------------------------------------------")
+#8th question 
+print("python is easy")
+print("----------------------------------------------------")
+#9th question 
+print('My first program')
+print("----------------------------------------------------")
+#10th question 
+print("Hello from python")
+print("----------------------------------------------------")
+#11th question 
+print("2 + 5")
+print("----------------------------------------------------")
+#12th questrion 
+print("2 + 5")
+print(2 + 5)
+print("----------------------------------------------------")
+#13th question 
+print('10 - 3')
+print("----------------------------------------------------")
+#14th question 
+print(10 - 3)
+print("----------------------------------------------------")
+#15th question
+print("Hello World!")
+print("----------------------------------------------------")
+#16th question 
+print("python")
+print("----------------------------------------------------")
+#17th question
+print("Hello")
+print("----------------------------------------------------")
+#18th question 
+print("Hello")
+#19th question
+print("----------------------------------------------------") 
+print("10 + 20")
+print("----------------------------------------------------")
+#20th question
+print(10 + 20 )
+print("----------------------------------------------------")
+#21st question 
+name ="palguna"
+print(name)
+print("----------------------------------------------------")
+#22nd question 
+age = 18
+print(age)
+print("----------------------------------------------------")
+#23rd question 
+marks =85
+print(marks)
+print("----------------------------------------------------")
+#24th question
+price =99.5
+print(price)
+print("----------------------------------------------------")
+#25th question 
+city ="chennai"
+print(city)
+print("----------------------------------------------------")
+#26th question 
+score =95
+print(score)
+print("----------------------------------------------------")
+#27th question
+x = 10 
+print(x)
+print("----------------------------------------------------")
+#28th question
+message = "Welcome"
+print(message)
+print("----------------------------------------------------")
+#29th question
+a = 10
+b = 20
+print(a+b)
+print("----------------------------------------------------")
+#30th question 
+quantity =5
+price = 10
+print(quantity*price)
+print("----------------------------------------------------")
+#31st question
+a = 25
+print(type(a))
+print("----------------------------------------------------")
+#32nd question
+a = 25.5
+print(type(a))
+print("----------------------------------------------------")
+#33rd question 
+a = "25"
+print(type(a))
+print("----------------------------------------------------")
+#34th question
+age = 21
+b = int(age)
+print(b)
+print("----------------------------------------------------")
+#35th question
+height = 5.8
+b = float(height)
+print(b)
+print("----------------------------------------------------")
+#36th question
+name = "Arun"
+b = str(name)
+print(b)
+print("----------------------------------------------------")
+#37th question
+age = 20
+price = 99.5
+name = "Arun"
+print(age)
+print(99.5)
+print(name)
+print("----------------------------------------------------")
+#38th question
+marks = 90
+print(type(marks))
+print("----------------------------------------------------")
+#39th question
+temperature = 36.5
+print(type(temperature))
+print("----------------------------------------------------")
+#40th question
+message = "Welcome"
+print(type(message))
+print("----------------------------------------------------")
+#41st question
+print("tart")
+print("Middle")
+print("End")
+print("----------------------------------------------------")
+#42nd question
+print("First")
+print("Second")
+print("Third")
+print("----------------------------------------------------")
+#43rd question
+x = 10
+print(x)
+x =20
+print(x)
+print("----------------------------------------------------")
+#44th question 
+number = 5
+print(number)
+number = 10
+print(number)
+print("----------------------------------------------------")
+#45th question
+print("A")
+print("B")
+print("C")
+print("----------------------------------------------------")
+#46th question
+name = "Ravi"
+age = 20
+print(name , age)
+print("----------------------------------------------------")
+#47th question
+print("1,2,3,4")
+print("----------------------------------------------------")
+#48th question
+x = 5
+y = 10
+print(x , y)
+print("----------------------------------------------------")
+#49th question
+print("Start")
+print("2+3")
+print("End")
+print("----------------------------------------------------")
+#50th question
+print("Login,Dashboard,Logout")
+print("----------------------------------------------------")
